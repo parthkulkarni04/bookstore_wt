@@ -27,4 +27,7 @@
 3. Start the frontend server:  
    ```bash  
    npm start  
-   ```  
+   ```
+
+
+change line no. 13 in backend/server.js to your mongodb url
